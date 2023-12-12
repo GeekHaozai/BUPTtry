@@ -11,3 +11,6 @@ def main():
 def wh():
     import re
     re.compile("111")
+
+def xiaochou(wh):
+    print("yes")
